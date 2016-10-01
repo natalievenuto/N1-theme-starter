@@ -1,10 +1,10 @@
 {
-  "name": "",
-  "title": "",
-  "displayName": "",
+  "name": "Apiary Slack Theme",
+  "title": "Apiary Slack Theme",
+  "displayName": "Apiary Slack Theme",
   "theme": "ui",
   "version": "0.1.0",
-  "description": "",
+  "description": "Apiary Slack Theme",
   "license": "GPL-3.0",
   "engines": {
     "nylas": "*"
